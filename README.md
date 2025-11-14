@@ -36,19 +36,24 @@ order_items.csv
 
 payments.csv
 
-<img width="1484" height="914" alt="image" src="https://github.com/user-attachments/assets/ddf02690-7c53-4747-800e-e28970685d06" />
+<img width="547" height="191" alt="Screenshot 2025-11-14 152721" src="https://github.com/user-attachments/assets/1b672321-8800-47fb-88c8-7a546f1ed9be" />
+
+
 
 python ingest.py
 
-<img width="704" height="55" alt="image" src="https://github.com/user-attachments/assets/2f01a303-628f-46b5-8590-e1a646c571e9" />
+<img width="704" height="55" alt="Screenshot 2025-11-14 155918" src="https://github.com/user-attachments/assets/adc73dc8-52a5-481d-9859-0a3f5772e7be" />
+
 
 query.sql
 
-<img width="842" height="580" alt="image" src="https://github.com/user-attachments/assets/85c4a598-4c5e-436a-805f-5964eff5a80d" />
+<img width="842" height="580" alt="Screenshot 2025-11-14 160207" src="https://github.com/user-attachments/assets/b0cd874e-dff2-4438-9610-8c68df332a65" />
 
 running the command to see records
 SELECT * FROM orders LIMIT 10;
-<img width="819" height="440" alt="image" src="https://github.com/user-attachments/assets/265a82b8-96ec-4266-84b9-43d8c32f144d" />
+<img width="819" height="440" alt="Screenshot 2025-11-14 160420" src="https://github.com/user-attachments/assets/a2e72ba1-bd36-49fb-9576-ed0dc0bad8b4" />
+
+
 
 
 
