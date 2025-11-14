@@ -40,4 +40,15 @@ payments.csv
 
 python ingest.py
 
+<img width="704" height="55" alt="image" src="https://github.com/user-attachments/assets/2f01a303-628f-46b5-8590-e1a646c571e9" />
+
+query.sql
+
+<img width="842" height="580" alt="image" src="https://github.com/user-attachments/assets/85c4a598-4c5e-436a-805f-5964eff5a80d" />
+
+running the command to see records
+SELECT * FROM orders LIMIT 10;
+<img width="819" height="440" alt="image" src="https://github.com/user-attachments/assets/265a82b8-96ec-4266-84b9-43d8c32f144d" />
+
+
 
